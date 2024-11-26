@@ -1,0 +1,2 @@
+/home/cdmkubuntu/Desktop/Furniture AR/Projects/Furniture AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/home/cdmkubuntu/Desktop/Furniture AR/Projects/Furniture AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
